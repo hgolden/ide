@@ -16,7 +16,7 @@ json-rpc = { path = "../json-rpc" }
 utils = { path = "../utils" }
 chrono = { version = "0.4", features = ["serde"] }
 failure = { version = "0.1.8" }
-flatbuffers = { version = "0.5" }
+flatbuffers = { version = "0.8" }
 futures = { version = "0.3.1" }
 mockall = { version = "0.7.1", features = ["nightly"] }
 hex = { version = "0.4.2" }
